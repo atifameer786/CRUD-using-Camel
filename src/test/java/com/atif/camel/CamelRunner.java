@@ -34,8 +34,7 @@ public class CamelRunner {
         assertThat(response);
     }
 
-    // TEST CASE FOR FIND BY ID
-
+    // TEST CASE FOR FIND BY
     @Test
     @Order(2)
     public void findbyid() {
